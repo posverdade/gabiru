@@ -9,3 +9,4 @@ O projeto foi separado em partes;
  A segunda parte, montar as imagens usando IA, sobretudo o Stable Diffusion.
  A terceira foram os acabamentos, inserindo música e afins.
  
+https://drive.google.com/file/d/1PxJJq1vUYanmpOC7_siBQb-HAJ3fSa-k/view?usp=drive_link
